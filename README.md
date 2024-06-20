@@ -1,7 +1,7 @@
 # 영화 관객 수 예측을 위한 새로운 변수 개발
 
 ### 김형민 김기훈
-<img src="https://tethys.pnnl.gov/sites/default/files/styles/captioned_400xauto/public/taxonomy-images/kyung-hee-logo.jpg?itok=P8rfxjvz" style="width:300px">
+<img src="https://tethys.pnnl.gov/sites/default/files/styles/captioned_400xauto/public/taxonomy-images/kyung-hee-logo.jpg?itok=P8rfxjvz" style="width:400px">
 
 ## 프로젝트 개요
 본 연구는 머신러닝기초및응용 2024 기말 프로젝트로, 차주 영화 관객 수 예측을 위한 새로운 변수를 개발하고 이를 모델링에 적용하여 예측 성능을 평가하는 것을 목표로 합니다. 네이버 트렌드 데이터를 포함한 다양한 변수들을 사용하여 예측 모델의 성능을 향상시키고자 하였습니다.
