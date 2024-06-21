@@ -1,6 +1,6 @@
 # 영화 관객 수 예측을 위한 새로운 변수 개발
 
-### 머신러닝기초및응용 12조 김형민 김기훈 
+### ML 머신러닝기초및응용 12조 김형민 김기훈 
 <img src="https://tethys.pnnl.gov/sites/default/files/styles/captioned_400xauto/public/taxonomy-images/kyung-hee-logo.jpg?itok=P8rfxjvz" style="width:400px">
 
 
